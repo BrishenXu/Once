@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 基础组件，分类等
                        DESC
 
-  s.homepage         = 'https://github.com/137470467@qq.com/Once'
+  s.homepage         = 'https://github.com/fourse7en/Once.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '137470467@qq.com' => '137470467@qq.com' }
