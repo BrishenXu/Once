@@ -1,0 +1,22 @@
+{
+  "name": "Once",
+  "version": "0.1.0",
+  "summary": "Once.",
+  "description": "基础组件，分类等",
+  "homepage": "https://github.com/137470467@qq.com/Once",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "137470467@qq.com": "137470467@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fourse7en/Once.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Once/Classes/**/*"
+}

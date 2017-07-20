@@ -7,6 +7,8 @@
 //
 
 #import "XDYAppDelegate.h"
+#import "NSArray+Extension.h"
+#import "NSDictionary+Extension.h"
 
 @implementation XDYAppDelegate
 

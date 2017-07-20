@@ -1,0 +1,16 @@
+PODS:
+  - Once (0.1.0)
+
+DEPENDENCIES:
+  - Once (from `../`)
+
+EXTERNAL SOURCES:
+  Once:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Once: 3929a5bb21412cf6849e19403a3dfc76325831e1
+
+PODFILE CHECKSUM: 2347718d9ccd4a8c5c909fe3c893352dff133204
+
+COCOAPODS: 1.0.1
